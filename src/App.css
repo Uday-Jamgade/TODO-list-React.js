@@ -1,0 +1,21 @@
+input {
+    width: 100%;
+  }
+  
+  .kg-button {
+    min-width: 80px;
+  }
+  
+  .kg-row {
+    margin: 10px 5px;
+  }
+
+  .contaner{
+    width: 150vh;
+    height: 150vw;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 10vw;
+    margin-left: 10vw;
+    
+  }
